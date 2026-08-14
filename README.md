@@ -5,6 +5,7 @@ A classic number guessing game built in C language where the player tries to gue
 ## 🚀 How to Run
 1. Download or clone `main.c`
 2. Compile and run using GCC:
-   ```bash
+   ```powershell
    gcc main.c -o game
-   ./game
+   .\game.exe
+   ```
